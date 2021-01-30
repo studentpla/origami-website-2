@@ -1,0 +1,14 @@
+
+
+.header{
+  font-family:fantasy ;
+   color:blue;
+} 
+.menu{
+   font-family: initial;
+}  
+.grid{
+   display:flex;
+    justify-content: space-evenly;
+    flex-wrap:wrap ;
+}         
